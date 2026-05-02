@@ -3,13 +3,6 @@
 ### TaskSphere 🚀
 > A full-stack team task management system with role-based access control, built using the MERN stack. Manage projects, assign tasks, and track progress efficiently.
 
-## 🛠️ Tech Stack
-[![React](https://img.shields.io/badge/React-18-61DAFB?style=for-the-badge&logo=react&logoColor=white&labelColor=20232A)](https://react.dev/)
-[![Node.js](https://img.shields.io/badge/Node.js-18-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=20232A)](https://nodejs.org/)
-[![Express.js](https://img.shields.io/badge/Express.js-4-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
-[![MongoDB](https://img.shields.io/badge/MongoDB-6-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=20232A)](https://www.mongodb.com/)
-[![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=20232A)](https://tailwindcss.com/)
-
 </div>
 
 ---
